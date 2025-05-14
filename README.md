@@ -1,4 +1,4 @@
-# Conda CLI Automation Framework
+# Conda CLI Test Automation Framework
 
 ## Overview
 
@@ -11,7 +11,7 @@ This project focuses on simplicity and clarity in Conda CLI testing. A more robu
 ## Project Structure
 
 ```bash
-conda_cli_automation/
+conda-cli-test-automation/
 ├── test_data/
 │   └── package_install_workflow.py        # Conda environments and packages definition
 │
