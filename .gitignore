@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__
+*.pyc
+
+# Virtual environments
+.venv
+
+# Logs and reports
+logs
+report
+
+# pytest artifacts
+.pytest_cache
+
+# Code editor configs
+.vscode
+
+# OS-specific
+.DS_Store
